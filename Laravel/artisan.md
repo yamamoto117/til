@@ -7,6 +7,7 @@
 * php artisan make:model：新しいモデルを作成するコマンド
 * php artisan make:controller：新しいコントローラーを作成するコマンド
 * php artisan migrate：データベースのマイグレーションを実行するコマンド
+* php artisan route:list：開発時にサーバの状態を確認したい場合に有用
 * php artisan serve：Laravelの開発用サーバーを起動するコマンド
 * php artisan help：コマンドのヘルプ情報を表示
 * php artisan list：コマンドのリストを表示
